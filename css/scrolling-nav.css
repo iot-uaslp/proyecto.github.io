@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 80px 0;
+}
+
+#header
+{
+   background: url('../Resources/cloud-computing.jpg') no-repeat center center;
+   background-size:cover;
+   opacity: 0.8;
+   margin-top: 55px;   
+}
+
+#diagram
+{
+  border:3px black dashed;
+}
+
+.rounded
+{
+  padding:20px;
+}
+
+h1
+{
+  font-family: 'Unlock', cursive;
+}
+
